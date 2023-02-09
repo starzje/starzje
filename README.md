@@ -4,7 +4,7 @@
 <h3 align="left">Tech stack:</h3>
 <h4 align="left">Development:</h4>
 
-[![My Dev Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,firebase,git,sass,webpack,docker,webpack,graphql)](https://www.ivan-starcevic.com/)
+[![My Dev Skills](https://skillicons.dev/icons?i=ts,js,react,nextjs,redux,tailwind,firebase,git,sass,webpack,docker,graphql)](https://www.ivan-starcevic.com/)
 
 <h4 align="left">Design:</h4>
 
