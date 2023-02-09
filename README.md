@@ -11,9 +11,9 @@
 [![My Design Skills](https://skillicons.dev/icons?i=figma,ai,ps)](https://www.ivan-starcevic.com/)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/ivan-star%C4%8Devi%C4%87-frontend-developer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ivan starčević" height="30" width="40" /></a>
-</p>
+
+[![Contact](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/ivan-star%C4%8Devi%C4%87-frontend-developer/)
+
 
 
 <h3 align="left">What I use the most:</h3>
